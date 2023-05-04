@@ -1,0 +1,48 @@
+<html>
+<head>
+<title> Try It Yourself </title>
+   <style type="text/css">
+     body {
+         background-image: url("Sunsets_01.jpeg");
+      }
+      p {
+         color: white;
+      }
+
+      button {
+         font-family: sans-serif;
+      
+      
+      }
+      #Home {
+         background-color: rgb(0, 0, 0);
+         color: #ffffff;
+      }
+      #Profile {
+         background-color: rgb(0, 0, 0);
+         color: #ffffff;
+      }
+      #Favorites {
+         background-color: rgb(0, 0, 0);
+         color: #ffffff;
+      }
+      #Ambitions {
+         background-color: rgb(0, 0, 0);
+         color: #ffffff;
+      }
+      #Grade-8 {
+         background-color: rgb(0, 0, 0);
+         color: #ffffff;
+      }
+   </style>
+</head>
+                                    <a href="Home.html">
+   <button id="Home"> Home </button><a href="Profile.html">
+   <button id="Profile"> Profile </button><a href="Favorites.html">
+   <button id="Favorites"> Favorites </button><a href="Ambitions.html">
+   <button id="Ambitions"> Ambitions </button><a href="Grade-8.html">
+   <button id="Grade-8"> Grade-8 </button><a href="Home.html"></a>
+   <h2><center><p>4th Quarter Performance Task</center></h2>
+   <h3><b><p>Hello Sir Ricky, I am Jc mae Jatico this is my performance task for the 4th quarter. I hope you'll like my output. Have a good day sir 😊.</b></h3>
+</body>
+</html>
